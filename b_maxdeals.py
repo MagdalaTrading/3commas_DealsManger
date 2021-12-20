@@ -1,5 +1,4 @@
 from py3cw.request import Py3CW
-import sys
 import a_config
 
 
